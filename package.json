@@ -1,0 +1,11 @@
+{
+  "name": "thapar-event-management-system",
+  "version": "1.0.0",
+  "description": "event managemet app for TIET",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Radhika",
+  "license": "ISC"
+}
