@@ -90,30 +90,3 @@ The project includes a comprehensive testing plan to ensure functionality, perfo
 
   
 ## Screenshots
-
-### 1. Sign Up Page
-![Sign Up Page](client/src/pages/signup.png)
-
-### 2. Sign In Page
-![Sign In Page](client/src/pages/signin.png)
-
-### 3. Dashboard
-![Dashboard](client/src/pages/dashboard.png)
-
-### 4. Create Event Page
-![Create Event Page](client/src/pages/create_event.png)
-
-### 5. Calendar View Page
-![Calendar View Page](client/src/pages/calendar_view.png)
-
-### 6. Event Details Page
-![Event Details Page](client/src/pages/event_details.png)
-
-### 7. Terms and Conditions Page
-![Terms and Conditions Page](client/src/pages/terms_conditions.png)
-
-### 8. Payment Page
-![Payment Page](client/src/pages/payment.png)
-
-### 9. My Tickets Page
-![My Tickets Page](client/src/pages/my_tickets.png)
