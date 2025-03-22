@@ -89,6 +89,18 @@ The project includes a comprehensive testing plan to ensure functionality, perfo
 - [Swayam Aggarwal](https://github.com/Swayam0407/) - GitHub
   
 ## Usage
+![image](https://github.com/user-attachments/assets/4936eec2-0e5c-4db1-9fed-eab4801324a5)
 ![image](https://github.com/user-attachments/assets/ecc2a206-e566-49dc-9027-2cb2a2d14c0f)
+![image](https://github.com/user-attachments/assets/bcfa0b10-469a-47ae-9ed2-c52a958be0b8)
+![image](https://github.com/user-attachments/assets/236abe15-4098-4286-9b47-fe54255a835e)
+![image](https://github.com/user-attachments/assets/7a1bb6a1-8ddd-4057-acf0-688a3717c66d)
+![image](https://github.com/user-attachments/assets/60e96b7a-bc78-4ebc-a162-73351c123d70)
+![image](https://github.com/user-attachments/assets/8b674bf0-bfb5-426b-9d84-3fbaeab99b21)
+
+
+
+
+
+
 
 
