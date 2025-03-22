@@ -87,6 +87,8 @@ The project includes a comprehensive testing plan to ensure functionality, perfo
 
 - [Radhika Rani](https://github.com/radhika-gh/) - GitHub
 - [Swayam Aggarwal](https://github.com/Swayam0407/) - GitHub
-
   
+## Usage
+![image](https://github.com/user-attachments/assets/ecc2a206-e566-49dc-9027-2cb2a2d14c0f)
+
 
